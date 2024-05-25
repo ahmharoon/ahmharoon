@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmharoon.github.io/Portfolio/](https://ahmharoon.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML, CSS, JS | PHP, MySQL**
+- 💬 Ask me about **HTML, CSS,Bootstrap, Tailwind, JS, React  | PHP, MySQL**
 
 - 📫 How to reach me **ah3324337904@gmail.com**
 
