@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmad Haroon</h1>
-<h3 align="center">Full Stack Developer | Tech Visionary | HTML, CSS, JS | PHP, MySQL</h3>
+<h3 align="center">Full Stack Developer | Tech Visionary | HTML, CSS, JS, React Js | Node Js, Express Js, MongoDB</h3>
 
 <img align="right" ali="coding" widht="200" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently practicing **MERN**
 
 - 👨‍💻 All of my projects are available at [https://ahmharoon.github.io/Portfolio/](https://ahmharoon.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML, CSS,Bootstrap, Tailwind, JS, React  | PHP, MySQL**
+- 💬 Ask me about **HTML, CSS,Bootstrap, Tailwind, JS, React  | Node Js, Express Js, MongoDB**
 
 - 📫 How to reach me **ah3324337904@gmail.com**
 
